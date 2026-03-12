@@ -96,12 +96,32 @@ This project implements an end-to-end MLOps pipeline using Airflow for orchestra
     }
     ```
 
-## Required Screenshots
-All proof screenshots for Task 1-10 have been automatically captured and are stored in the `screenshots/` folder:
-- `01_Project_Setup.png`
-- `02_Airflow_Graph_View.png`
-- `03_Airflow_Grid_Success.png`
-- `...` (and others)
+## Project Proof & Screenshots
+Below is the visual proof for all 10 tasks completed in this assignment.
+
+### 1. Project Setup (Local File Structure)
+![Project Setup](screenshots/01_Project_Setup.png)
+
+### 2. Airflow DAG Graph View
+![Airflow Graph View](screenshots/02_Airflow_Graph_View.png)
+
+### 3. Airflow Grid View (Success & Retry Evidence)
+![Airflow Grid Success](screenshots/03_Airflow_Grid_Success.png)
+![Airflow Retry Evidence](screenshots/11_Airflow_Retry_Evidence.png)
+
+### 4. MLflow Experiments Comparison (Branching Proof)
+![MLflow Runs Comparison](screenshots/04_MLflow_Runs_Comparison.png)
+
+### 5. Best Run Metrics (Random Forest Accuracy: 1.0)
+![MLflow Best Run Metrics](screenshots/05_MLflow_Best_Run_Metrics.png)
+![MLflow Metrics Charts](screenshots/08_MLflow_Metrics_Charts.png)
+
+### 6. Logged Model & Artifacts
+![MLflow Artifacts Logged](screenshots/07_MLflow_Artifacts_Logged.png)
+
+### 7. Model Registry & Version Details
+![MLflow Model Registry](screenshots/06_MLflow_Model_Registry.png)
+![Model Version Details](screenshots/09_Model_Version_Details.png)
 
 ## Submission
 To submit:
