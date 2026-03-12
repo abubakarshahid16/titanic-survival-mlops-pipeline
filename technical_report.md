@@ -168,6 +168,6 @@ The project shows how workflow orchestration and experiment tracking can be comb
 
 # 9. GitHub Repository Link
 
-**Repository URL:** [https://github.com/your-username/mlops_assignment](https://github.com/your-username/mlops_assignment)
+**Repository URL:** [https://github.com/abubakarshahid16/titanic-survival-mlops-pipeline](https://github.com/abubakarshahid16/titanic-survival-mlops-pipeline)
 
-*Note: Please ensure that you push this project directory (excluding `venv/` and `mlruns/` if preferred) to your GitHub repository and replace the URL above with your actual repository link before final submission.*
+*Note: The project files have been successfully pushed to this repository.*
