@@ -1,4 +1,4 @@
-# MLOps Assignment: Titanic Survival Pipeline
+# End-to-End MLOps Pipeline: Titanic Survival Prediction
 
 This project implements an end-to-end MLOps pipeline using Airflow for orchestration and MLflow for experiment tracking, applied to the Titanic dataset.
 
